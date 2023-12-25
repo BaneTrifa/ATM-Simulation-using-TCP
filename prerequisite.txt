@@ -1,0 +1,2 @@
+sudo apt update, sudo apt upgrade, sudo aptinstall sqlite3
+sudo apt-get install libsqlite3-dev
